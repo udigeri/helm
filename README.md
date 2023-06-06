@@ -1,3 +1,3 @@
 # Helm skolenie
 
-## wall https://bit.ly/43aVB1v
+## [wall](https://bit.ly/43aVB1v)
